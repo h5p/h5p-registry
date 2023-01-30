@@ -446,6 +446,21 @@
       "attempted"
     ]
   },
+  "H5P.InfoWall": {
+    "id": "H5P.InfoWall",
+    "title": "Information Wall",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/otacke/h5p-info-wall"
+    },
+    "resume": false,
+    "fullscreen": false,
+    "author": "Oliver Tacke",
+    "runnable": true,
+    "xapiVerbs": [
+      "attempted"
+    ]
+  },
   "H5PEditor.AudioRecorder": {
     "id": "H5PEditor.AudioRecorder",
     "title": "H5P Editor Audio Recorder",
