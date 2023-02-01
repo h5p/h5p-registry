@@ -611,6 +611,36 @@
       "attempted"
     ]
   },
+  "H5PEditor.InfoWall": {
+    "id": "H5PEditor.InfoWall",
+    "title": "Info Wall Editor",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/otacke/h5p-editor-info-wall"
+    },
+    "resume": false,
+    "fullscreen": false,
+    "author": "Oliver Tacke",
+    "runnable": false,
+    "xapiVerbs": [
+      "attempted"
+    ]
+  },
+  "H5PEditor.InfoWallPassiveList": {
+    "id": "H5PEditor.InfoWallPassiveList",
+    "title": "Info Wall Editor Passive List",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/otacke/h5p-editor-info-wall-passive-list"
+    },
+    "resume": false,
+    "fullscreen": false,
+    "author": "Oliver Tacke",
+    "runnable": false,
+    "xapiVerbs": [
+      "attempted"
+    ]
+  },
   "H5PEditor.InteractiveVideo": {
     "id": "H5PEditor.InteractiveVideo",
     "title": "Interactive Video Editor",
