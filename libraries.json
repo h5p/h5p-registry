@@ -446,6 +446,33 @@
       "attempted"
     ]
   },
+  "H5P.GameMap": {
+    "id": "H5P.GameMap",
+    "title": "Game map",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/otacke/h5p-game-map"
+    },
+    "resume": true,
+    "fullscreen": true,
+    "author": "Oliver Tacke",
+    "runnable": true,
+    "xapiVerbs": [
+      "attempted"
+    ]
+  },
+  "H5PEditor.GameMap": {
+    "id": "H5PEditor.GameMap",
+    "title": "Game map editor",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/otacke/h5p-editor-game-map"
+    },
+    "resume": false,
+    "fullscreen": false,
+    "author": "Oliver Tacke",
+    "runnable": false
+  },
   "H5P.InfoWall": {
     "id": "H5P.InfoWall",
     "title": "Information Wall",
