@@ -473,6 +473,78 @@
     "author": "Oliver Tacke",
     "runnable": false
   },
+  "H5P.XRay": {
+    "id": "H5P.XRay",
+    "title": "X-Ray",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/otacke/h5p-x-ray"
+    },
+    "resume": false,
+    "fullscreen": false,
+    "author": "Oliver Tacke",
+    "runnable": true
+  },
+  "H5P.CombinationLock": {
+    "id": "H5P.CombinationLock",
+    "title": "Combination Lock",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/otacke/h5p-combination-lock"
+    },
+    "resume": false,
+    "fullscreen": false,
+    "author": "Oliver Tacke",
+    "runnable": true
+  },
+  "H5P.Tabs": {
+    "id": "H5P.Tabs",
+    "title": "Tabs",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/otacke/h5p-tabs"
+    },
+    "resume": false,
+    "fullscreen": false,
+    "author": "Joubel",
+    "runnable": true
+  },
+  "H5P.Transcript": {
+    "id": "H5P.Transcript",
+    "title": "Transcript",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/otacke/h5p-transcript"
+    },
+    "resume": false,
+    "fullscreen": false,
+    "author": "Oliver Tacke",
+    "runnable": true
+  },
+  "H5P.TranscriptLibrary": {
+    "id": "H5P.TranscriptLibrary",
+    "title": "Transcript library",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/otacke/h5p-transcript-library"
+    },
+    "resume": false,
+    "fullscreen": false,
+    "author": "Oliver Tacke",
+    "runnable": false
+  },
+  "H5PEditor.Tabs": {
+    "id": "H5PEditor.Tabs",
+    "title": "H5PEditor.Tabs",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/otacke/h5p-editor-tabs"
+    },
+    "resume": false,
+    "fullscreen": false,
+    "author": "Oliver Tacke",
+    "runnable": false
+  },
   "H5P.InfoWall": {
     "id": "H5P.InfoWall",
     "title": "Information Wall",
