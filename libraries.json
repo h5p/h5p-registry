@@ -266,6 +266,19 @@
       "attempted"
     ]
   },
+  "H5P.Row": {
+    "id": "H5P.Row",
+    "title": "Row",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/h5p/h5p-row"
+    },
+    "author": "Joubel",
+    "runnable": 0,
+    "shortName": "h5p-row",
+    "repoName": "h5p-row",
+    "org": "h5p"
+  },
   "H5P.Column": {
     "id": "H5P.Column",
     "title": "Column",
