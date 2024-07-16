@@ -1731,6 +1731,21 @@
       "attempted"
     ]
   },
+  "Tether": {
+    "id": "Tether",
+    "title": "Tether",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/h5p/tether"
+    },
+    "resume": false,
+    "fullscreen": false,
+    "author": "Hubspot. Wrapped as H5P by H5P Group",
+    "runnable": false,
+    "xapiVerbs": [
+      "attempted"
+    ]
+  },
   "TimelineJS": {
     "id": "TimelineJS",
     "title": "TimelineJS",
