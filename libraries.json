@@ -2238,5 +2238,31 @@
     "author": "Oliver Tacke",
     "runnable": false,
     "xapiVerbs": []
+  },
+  "H5P.ThreeDModel": {
+    "id": "H5P.ThreeDModel",
+    "title": "3D Model",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/ndlano/h5p-3d-model"
+    },
+    "resume": false,
+    "fullscreen": true,
+    "author": "NDLA, Oliver Tacke",
+    "runnable": true,
+    "xapiVerbs": []
+  },
+  "H5PEditor.ThreeDModel": {
+    "id": "H5PEditor.ThreeDModel",
+    "title": "H5PEditor.ThreeDModel",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/ndlano/h5p-editor-3d-model"
+    },
+    "resume": false,
+    "fullscreen": false,
+    "author": "NDLA, Oliver Tacke",
+    "runnable": false,
+    "xapiVerbs": []
   }
 }
