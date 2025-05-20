@@ -1,4 +1,17 @@
 {
+  "H5P.Components": {
+    "id": "H5P.Components",
+    "title": "Components",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/h5p/h5p-components"
+    },
+    "author": "H5P Group",
+    "runnable": 0,
+    "shortName": "h5p-components",
+    "repoName": "h5p-components",
+    "org": "h5p"
+  },
   "FontAwesome": {
     "id": "FontAwesome",
     "title": "Font Awesome",
