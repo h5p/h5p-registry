@@ -2000,5 +2000,137 @@
     "xapiVerbs": [
       "attempted"
     ]
+  },
+  "H5P.ARScavenger": {
+    "id": "H5P.ARScavenger",
+    "title": "AR Scavenger",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/otacke/h5p-ar-scavenger"
+    },
+    "resume": true,
+    "fullscreen": true,
+    "author": "Oliver Tacke",
+    "runnable": true,
+    "xapiVerbs": [
+      "attempted", "answered"
+    ]
+  },
+  "H5P.AFrame": {
+    "id": "H5P.AFrame",
+    "title": "aframe.js",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/otacke/h5p-aframe"
+    },
+    "resume": false,
+    "fullscreen": false,
+    "author": "Oliver Tacke",
+    "runnable": false,
+    "xapiVerbs": []
+  },
+  "H5P.AframeAR": {
+    "id": "H5P.AframeAR",
+    "title": "aframe-ar.js",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/otacke/h5p-aframe-ar"
+    },
+    "resume": false,
+    "fullscreen": false,
+    "author": "Oliver Tacke",
+    "runnable": false,
+    "xapiVerbs": []
+  },
+  "H5PEditor.ARMarkerGenerator": {
+    "id": "H5PEditor.ARMarkerGenerator",
+    "title": "H5PEditor.ARMarkerGenerator",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/otacke/h5p-editor-ar-marker-generator"
+    },
+    "resume": false,
+    "fullscreen": false,
+    "author": "Oliver Tacke",
+    "runnable": false,
+    "xapiVerbs": []
+  },
+  "H5PEditor.ThreeDModelLoader": {
+    "id": "H5PEditor.ThreeDModelLoader",
+    "title": "H5PEditor.ThreeDModelLoader",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/otacke/h5p-editor-3D-model-loader"
+    },
+    "resume": false,
+    "fullscreen": false,
+    "author": "Oliver Tacke",
+    "runnable": false,
+    "xapiVerbs": []
+  },
+  "H5P.AFrameOrbitControls": {
+    "id": "H5P.AFrameOrbitControls",
+    "title": "aframe-orbit-controls.js",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/otacke/h5p-aframe-orbit-controls"
+    },
+    "resume": false,
+    "fullscreen": false,
+    "author": "Kevin Ngo &lt;me@ngokevin.com&gt;",
+    "runnable": false,
+    "xapiVerbs": []
+  },
+  "H5PEditor.InputRow": {
+    "id": "H5PEditor.InputRow",
+    "title": "H5PEditor.InputRow",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/otacke/h5p-editor-input-row"
+    },
+    "resume": false,
+    "fullscreen": false,
+    "author": "Oliver Tacke",
+    "runnable": false,
+    "xapiVerbs": []
+  },
+  "H5PEditor.ImportantDescription": {
+    "id": "H5PEditor.ImportantDescription",
+    "title": "H5PEditor.ImportantDescription",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/otacke/h5p-editor-important-description"
+    },
+    "resume": false,
+    "fullscreen": false,
+    "author": "Oliver Tacke",
+    "runnable": false,
+    "xapiVerbs": []
+  },
+  "H5P.ThreeDModel": {
+    "id": "H5P.ThreeDModel",
+    "title": "3D Model",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/ndlano/h5p-3d-model"
+    },
+    "resume": false,
+    "fullscreen": true,
+    "author": "NDLA, Oliver Tacke",
+    "runnable": true,
+    "xapiVerbs": []
+  },
+  "H5PEditor.ThreeDModel": {
+    "id": "H5PEditor.ThreeDModel",
+    "title": "H5PEditor.ThreeDModel",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/ndlano/h5p-editor-3d-model"
+    },
+    "resume": false,
+    "fullscreen": false,
+    "author": "NDLA, Oliver Tacke",
+    "runnable": false,
+    "xapiVerbs": []
   }
 }
