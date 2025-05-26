@@ -207,6 +207,18 @@
     "repoName": "h5p-row",
     "org": "h5p"
   },
+  {
+  "H5P.RowColumn": {
+    "id": "H5P.RowColumn",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/h5p/h5p-row-column"
+    },
+    "author": "H5P Group",
+    "runnable": 0,
+    "shortName": "h5p-row-column",
+    "org": "h5p"
+  },
   "H5P.Column": {
     "id": "H5P.Column",
     "title": "Column",
