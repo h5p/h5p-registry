@@ -1956,6 +1956,18 @@
       "attempted"
     ]
   },
+  "H5PEditor.KewArCode": {
+    "id": "H5PEditor.KewArCode",
+    "title": "H5PEditor.KewArCode",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/otacke/h5p-editor-kewar-code"
+    },
+    "resume": false,
+    "fullscreen": false,
+    "author": "Oliver Tacke",
+    "runnable": false
+  },
   "H5P.MarkTheLetters": {
     "id": "H5P.MarkTheLetters",
     "title": "Mark the Letters",
