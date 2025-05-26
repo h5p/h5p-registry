@@ -2029,8 +2029,8 @@
     "runnable": false,
     "xapiVerbs": []
   },
-  "H5P.AframeAR": {
-    "id": "H5P.AframeAR",
+  "H5P.AFrameAR": {
+    "id": "H5P.AFrameAR",
     "title": "aframe-ar.js",
     "repo": {
       "type": "github",
