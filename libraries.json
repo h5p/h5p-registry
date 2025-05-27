@@ -412,7 +412,7 @@
     ]
   },
   "H5PEditor.DateTime": {
-    "id": "H5PEditor.GameMap",
+    "id": "H5PEditor.DateTime",
     "title": "H5PEditor.DateTime",
     "repo": {
       "type": "github",
