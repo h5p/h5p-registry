@@ -411,6 +411,18 @@
       "attempted"
     ]
   },
+  "H5PEditor.DateTime": {
+    "id": "H5PEditor.GameMap",
+    "title": "H5PEditor.DateTime",
+    "repo": {
+      "type": "github",
+      "url": "https://github.com/otacke/h5p-editor-datetime"
+    },
+    "resume": false,
+    "fullscreen": false,
+    "author": "Oliver Tacke",
+    "runnable": false
+  },
   "H5PEditor.GameMap": {
     "id": "H5PEditor.GameMap",
     "title": "Game map editor",
